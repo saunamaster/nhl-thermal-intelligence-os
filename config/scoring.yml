@@ -1,0 +1,18 @@
+weights:
+  strategic_relevance_score: 0.30
+  commercial_opportunity_score: 0.25
+  authority_score: 0.20
+  competition_threat_score: 0.15
+  ta_gap_score: 0.10
+
+scale:
+  min: 1
+  max: 5
+
+action_types:
+  - sales_angle
+  - content_angle
+  - product_insight
+  - partnership_lead
+  - strategic_warning
+  - archive_ignore

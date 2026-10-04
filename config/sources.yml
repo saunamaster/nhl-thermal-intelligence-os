@@ -1,0 +1,28 @@
+sources:
+  - source_name: Manual Sample Signals
+    source_type: sample
+    url: sample://thermal-intelligence
+    segment: Competitors / Partners
+    country: DK
+    language: da
+    priority: 5
+    scan_frequency: weekly
+    notes: Built-in sample source used when external search is unavailable.
+  - source_name: Global Wellness Institute
+    source_type: web
+    url: https://globalwellnessinstitute.org/
+    segment: Institutions / Standards / Legitimacy
+    country: International
+    language: en
+    priority: 4
+    scan_frequency: weekly
+    notes: Institutional terminology and wellness economy signals.
+  - source_name: International Sauna Association
+    source_type: web
+    url: https://saunainternational.net/
+    segment: Institutions / Standards / Legitimacy
+    country: International
+    language: en
+    priority: 4
+    scan_frequency: weekly
+    notes: Sauna association and legitimacy watch.

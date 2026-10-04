@@ -1,0 +1,13 @@
+weekly_report:
+  default_language: da
+  title_template: "Thermal Market Intelligence - Uge {week_number}"
+  sections:
+    - Executive Signal
+    - Segment Heatmap
+    - Competitor & Colleague Watch
+    - Terminology Watch
+    - Offer & Product Intelligence
+    - Content Opportunities
+    - Sales & Partnership Leads
+    - Strategic Implications for TA/NHL
+    - Action List

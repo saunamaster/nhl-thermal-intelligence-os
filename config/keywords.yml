@@ -1,0 +1,81 @@
+keywords:
+  - keyword: saunagus
+    segment: Traditional Thermal Crafts
+    category: ritual
+    language: da
+    priority: 5
+  - keyword: gusmester
+    segment: Traditional Thermal Crafts
+    category: education
+    language: da
+    priority: 5
+  - keyword: aufguss
+    segment: Traditional Thermal Crafts
+    category: ritual
+    language: de
+    priority: 5
+  - keyword: sauna master
+    segment: Traditional Thermal Crafts
+    category: education
+    language: en
+    priority: 4
+  - keyword: cold plunge
+    segment: Thermal Revolution / Biohacking / Recovery
+    category: recovery
+    language: en
+    priority: 5
+  - keyword: contrast therapy
+    segment: Thermal Revolution / Biohacking / Recovery
+    category: recovery
+    language: en
+    priority: 5
+  - keyword: sauna longevity
+    segment: Thermal Revolution / Biohacking / Recovery
+    category: longevity
+    language: en
+    priority: 4
+  - keyword: thermal spa
+    segment: Spa / Bathhouse / Hospitality
+    category: facility
+    language: en
+    priority: 5
+  - keyword: Nordic spa
+    segment: Spa / Bathhouse / Hospitality
+    category: facility
+    language: en
+    priority: 5
+  - keyword: urban bathhouse
+    segment: Spa / Bathhouse / Hospitality
+    category: facility
+    language: en
+    priority: 4
+  - keyword: ISO 17679
+    segment: Institutions / Standards / Legitimacy
+    category: standards
+    language: en
+    priority: 5
+  - keyword: Global Wellness Institute
+    segment: Institutions / Standards / Legitimacy
+    category: institution
+    language: en
+    priority: 5
+  - keyword: FEMTEC
+    segment: Institutions / Standards / Legitimacy
+    category: institution
+    language: en
+    priority: 4
+  - keyword: sauna master course
+    segment: Education / Certification / Competency
+    category: training
+    language: en
+    priority: 5
+  - keyword: hydrotherapy training
+    segment: Education / Certification / Competency
+    category: training
+    language: en
+    priority: 4
+  - keyword: wellness education
+    segment: Education / Certification / Competency
+    category: education
+    language: en
+    priority: 4

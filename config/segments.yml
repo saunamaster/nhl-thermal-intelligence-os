@@ -1,0 +1,19 @@
+segments:
+  - id: traditional_thermal_crafts
+    name: Traditional Thermal Crafts
+    description: Sauna, aufguss, pirts, banya, hammam, and ritual craft traditions.
+  - id: thermal_revolution_recovery
+    name: Thermal Revolution / Biohacking / Recovery
+    description: Cold exposure, heat adaptation, contrast therapy, recovery, and resilience.
+  - id: spa_bathhouse_hospitality
+    name: Spa / Bathhouse / Hospitality
+    description: Hydrothermal facilities, bathhouses, resorts, guest experience, and operations.
+  - id: institutions_standards_legitimacy
+    name: Institutions / Standards / Legitimacy
+    description: Standards, associations, institutional terminology, TCIM, and legitimacy signals.
+  - id: education_certification_competency
+    name: Education / Certification / Competency
+    description: Training, certification, competency, and education providers.
+  - id: competitors_partners
+    name: Competitors / Partners
+    description: People, brands, educators, facilities, associations, resorts, and partners.
